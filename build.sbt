@@ -30,7 +30,7 @@ libraryDependencies ++= Seq(
 )
 
 resolvers ++= Seq(
-  "vpon maven" at "http://192.168.101.29:8081/artifactory/vpon-maven/"
+  "vpon maven" at "http://192.168.101.29:8081/artifactory/vpon-maven/",
   "typesafe.com" at "http://repo.typesafe.com/typesafe/maven-releases/"
 )
 
