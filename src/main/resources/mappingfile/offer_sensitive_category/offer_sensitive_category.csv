@@ -1,0 +1,56 @@
+ID;DESC_1_TIER;IGNORE_TABLE_TYPE
+001;Airline;Offer Category
+002;Apparel and Accessory;Offer Category
+003;Appliances;Offer Category
+004;Automotive and Vehicles;Offer Category
+005;Computers and Electronics;Offer Category
+006;Cosmetic Procedures;Offer Category
+007;Cosmetics and Hygiene;Offer Category
+008;Education;Offer Category
+009;Employment;Offer Category
+010;Family and Parenting;Offer Category
+011;Financial;Offer Category
+012;Fitness and Health;Offer Category
+013;Flowers and Gifts;Offer Category
+014;Food and Drink;Offer Category
+015;Government;Offer Category
+016;Health-care;Offer Category
+017;Home and Decor;Offer Category
+018;Hotels;Offer Category
+019;Insurance;Offer Category
+020;Legal;Offer Category
+021;Movies;Offer Category
+022;Music;Offer Category
+023;Non Profit;Offer Category
+024;Office Supplies;Offer Category
+000;Others;Offer Category
+025;Pets;Offer Category
+026;Print and Publications;Offer Category
+027;Real Estate;Offer Category
+028;Retail;Offer Category
+029;Software and Web Apps;Offer Category
+030;Sporting Goods;Offer Category
+031;Sports and Events;Offer Category
+032;Telecommunications;Offer Category
+033;Television;Offer Category
+034;Toys / Games;Offer Category
+035;Travel Destinations;Offer Category
+036;Travel Services;Offer Category
+037;Video Games;Offer Category
+101;Alcoholic Beverages and References;Sensitive Category
+102;Consumer Loans;Sensitive Category
+103;Dating;Sensitive Category
+104;Gambling - Government-run Lottery;Sensitive Category
+105;Horoscope or Astrology;Sensitive Category
+106;Mobile App Downloads;Sensitive Category
+107;Online Games;Sensitive Category
+108;Pharmaceuticals and Supplements;Sensitive Category
+109;Politics;Sensitive Category
+110;Religion;Sensitive Category
+111;Sexual Health;Sensitive Category
+112;Sexually Suggestive;Sensitive Category
+114;Shaky, Flashing, Flickering, Extreme Animation, Smileys;Sensitive Category
+115;Surveys and Quizzes;Sensitive Category
+116;User Interactive (e.g. Embedded Games);Sensitive Category
+113;Weight Loss;Sensitive Category
+117;Windows Dialog or Alert Style;Sensitive Category

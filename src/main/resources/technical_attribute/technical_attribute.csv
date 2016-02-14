@@ -1,0 +1,13 @@
+ID;DESC_1_TIER
+1;Animated: 0-15 seconds
+2;Animated: 15-30 seconds
+3;Animated: more than 30 seconds
+4;Audio: Auto-Initiated
+5;Audio: User-Initiated
+6;Expandable: Auto-Expand
+7;Expandable: Click to Expand
+8;DHTML
+9;Image
+10;MRAID-2
+11;Text
+12;Video

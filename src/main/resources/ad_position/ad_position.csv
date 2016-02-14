@@ -1,0 +1,9 @@
+ID;DESC_1_TIER
+0;Unknown
+6;Above the fold
+2;DEPRECATED - May or may not be initially visible depending on screen size/resolution.
+5;Below the Fold
+4;Header
+1;Footer
+3;Sidebar
+7;Fullscreen

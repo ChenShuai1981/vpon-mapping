@@ -1,0 +1,393 @@
+ID;DESC_1_TIER;DESC_2_TIER;IGNORE_OPENRTB_ID
+1;Arts & Entertainment;;IAB1
+27;Arts & Entertainment;Books & Literature;IAB1-1
+28;Arts & Entertainment;Celebrity Fan/Gossip;IAB1-2
+29;Arts & Entertainment;Fine Art;IAB1-3
+30;Arts & Entertainment;Humor;IAB1-4
+31;Arts & Entertainment;Movies;IAB1-5
+32;Arts & Entertainment;Music;IAB1-6
+33;Arts & Entertainment;Television;IAB1-7
+2;Automotive;;IAB2
+34;Automotive;Auto Parts;IAB2-1
+35;Automotive;Auto Repair;IAB2-2
+36;Automotive;Buying/Selling Cars;IAB2-3
+37;Automotive;Car Culture;IAB2-4
+38;Automotive;Certified Pre-Owned;IAB2-5
+39;Automotive;Convertible;IAB2-6
+40;Automotive;Coupe;IAB2-7
+41;Automotive;Crossover;IAB2-8
+42;Automotive;Diesel;IAB2-9
+43;Automotive;Electric Vehicle;IAB2-10
+44;Automotive;Hatchback;IAB2-11
+45;Automotive;Hybrid;IAB2-12
+46;Automotive;Luxury;IAB2-13
+47;Automotive;MiniVan;IAB2-14
+48;Automotive;Motorcycles;IAB2-15
+49;Automotive;Off-Road Vehicles;IAB2-16
+50;Automotive;Performance Vehicles;IAB2-17
+51;Automotive;Pickup;IAB2-18
+52;Automotive;Road-Side Assistance;IAB2-19
+53;Automotive;Sedan;IAB2-20
+54;Automotive;Trucks & Accessories;IAB2-21
+55;Automotive;Vintage Cars;IAB2-22
+56;Automotive;Wagon;IAB2-23
+3;Business;;IAB3
+57;Business;Advertising;IAB3-1
+58;Business;Agriculture;IAB3-2
+59;Business;Biotech/Biomedical;IAB3-3
+60;Business;Business Software;IAB3-4
+61;Business;Construction;IAB3-5
+62;Business;Forestry;IAB3-6
+63;Business;Government;IAB3-7
+64;Business;Green Solutions;IAB3-8
+65;Business;Human Resources;IAB3-9
+66;Business;Logistics;IAB3-10
+67;Business;Marketing;IAB3-11
+68;Business;Metals;IAB3-12
+4;Careers;;IAB4
+69;Careers;Career Planning;IAB4-1
+70;Careers;College;IAB4-2
+71;Careers;Financial Aid;IAB4-3
+72;Careers;Job Fairs;IAB4-4
+73;Careers;Job Search;IAB4-5
+74;Careers;Resume Writing/Advice;IAB4-6
+75;Careers;Nursing;IAB4-7
+76;Careers;Scholarships;IAB4-8
+77;Careers;Telecommuting;IAB4-9
+78;Careers;U.S. Military;IAB4-10
+79;Careers;Career Advice;IAB4-11
+5;Education;;IAB5
+80;Education;7-12 Education;IAB5-1
+81;Education;Adult Education;IAB5-2
+82;Education;Art History;IAB5-3
+83;Education;Colledge Administration;IAB5-4
+84;Education;College Life;IAB5-5
+85;Education;Distance Learning;IAB5-6
+86;Education;English as a 2nd Language;IAB5-7
+87;Education;Language Learning;IAB5-8
+88;Education;Graduate School;IAB5-9
+89;Education;Homeschooling;IAB5-10
+90;Education;Homework/Study Tips;IAB5-11
+91;Education;K-6 Educators;IAB5-12
+92;Education;Private School;IAB5-13
+93;Education;Special Education;IAB5-14
+94;Education;Studying Business;IAB5-15
+6;Family & Parenting;;IAB6
+95;Family & Parenting;Adoption;IAB6-1
+96;Family & Parenting;Babies & Toddlers;IAB6-2
+97;Family & Parenting;Daycare/Pre School;IAB6-3
+98;Family & Parenting;Family Internet;IAB6-4
+99;Family & Parenting;Parenting - K-6 Kids;IAB6-5
+100;Family & Parenting;Parenting Teens;IAB6-6
+101;Family & Parenting;Pregnancy;IAB6-7
+102;Family & Parenting;Special Needs Kids;IAB6-8
+103;Family & Parenting;Eldercare;IAB6-9
+7;Health & Fitness;;IAB7
+104;Health & Fitness;Exercise;IAB7-1
+105;Health & Fitness;A.D.D.;IAB7-2
+106;Health & Fitness;AIDS/HIV;IAB7-3
+107;Health & Fitness;Allergies;IAB7-4
+108;Health & Fitness;Alternative Medicine;IAB7-5
+109;Health & Fitness;Arthritis;IAB7-6
+110;Health & Fitness;Asthma;IAB7-7
+111;Health & Fitness;Autism/PDD;IAB7-8
+112;Health & Fitness;Bipolar Disorder;IAB7-9
+113;Health & Fitness;Brain Tumor;IAB7-10
+114;Health & Fitness;Cancer;IAB7-11
+115;Health & Fitness;Cholesterol;IAB7-12
+116;Health & Fitness;Chronic Fatigue Syndrome;IAB7-13
+117;Health & Fitness;Chronic Pain;IAB7-14
+118;Health & Fitness;Cold & Flu;IAB7-15
+119;Health & Fitness;Deafness;IAB7-16
+120;Health & Fitness;Dental Care;IAB7-17
+121;Health & Fitness;Depression;IAB7-18
+122;Health & Fitness;Dermatology;IAB7-19
+123;Health & Fitness;Diabetes;IAB7-20
+124;Health & Fitness;Epilepsy;IAB7-21
+125;Health & Fitness;GERD/Acid Reflux;IAB7-22
+126;Health & Fitness;Headaches/Migraines;IAB7-23
+127;Health & Fitness;Heart Disease;IAB7-24
+128;Health & Fitness;Herbs for Health;IAB7-25
+129;Health & Fitness;Holistic Healing;IAB7-26
+130;Health & Fitness;IBS/Crohn's Disease;IAB7-27
+131;Health & Fitness;Incest/Abuse Support;IAB7-28
+132;Health & Fitness;Incontinence;IAB7-29
+133;Health & Fitness;Infertility;IAB7-30
+134;Health & Fitness;Men's Health;IAB7-31
+135;Health & Fitness;Nutrition;IAB7-32
+136;Health & Fitness;Orthopedics;IAB7-33
+137;Health & Fitness;Panic/Anxiety Disorders;IAB7-34
+138;Health & Fitness;Pediatrics;IAB7-35
+139;Health & Fitness;Physical Therapy;IAB7-36
+140;Health & Fitness;Psychology/Psychiatry;IAB7-37
+141;Health & Fitness;Senior Health;IAB7-38
+142;Health & Fitness;Sexuality;IAB7-39
+143;Health & Fitness;Sleep Disorders;IAB7-40
+144;Health & Fitness;Smoking Cessation;IAB7-41
+145;Health & Fitness;Substance Abuse;IAB7-42
+146;Health & Fitness;Thyroid Disease;IAB7-43
+147;Health & Fitness;Weight Loss;IAB7-44
+148;Health & Fitness;Women's Health;IAB7-45
+8;Food & Drink;;IAB8
+149;Food & Drink;American Cuisine;IAB8-1
+150;Food & Drink;Barbecues & Grilling;IAB8-2
+151;Food & Drink;Cajun/Creole;IAB8-3
+152;Food & Drink;Chinese Cuisine;IAB8-4
+153;Food & Drink;Cocktails/Beer;IAB8-5
+154;Food & Drink;Coffee/Tea;IAB8-6
+155;Food & Drink;Cuisine-Specific;IAB8-7
+156;Food & Drink;Desserts & Baking;IAB8-8
+157;Food & Drink;Dining Out;IAB8-9
+158;Food & Drink;Food Allergies;IAB8-10
+159;Food & Drink;French Cuisine;IAB8-11
+160;Food & Drink;Health/Lowfat Cooking;IAB8-12
+161;Food & Drink;Italian Cuisine;IAB8-13
+162;Food & Drink;Japanese Cuisine;IAB8-14
+163;Food & Drink;Mexican Cuisine;IAB8-15
+164;Food & Drink;Vegan;IAB8-16
+165;Food & Drink;Vegetarian;IAB8-17
+166;Food & Drink;Wine;IAB8-18
+9;Hobbies & Interests;;IAB9
+167;Hobbies & Interests;Art/Technology;IAB9-1
+168;Hobbies & Interests;Arts & Crafts;IAB9-2
+169;Hobbies & Interests;Beadwork;IAB9-3
+170;Hobbies & Interests;Birdwatching;IAB9-4
+171;Hobbies & Interests;Board Games/Puzzles;IAB9-5
+172;Hobbies & Interests;Candle & Soap Making;IAB9-6
+173;Hobbies & Interests;Card Games;IAB9-7
+174;Hobbies & Interests;Chess;IAB9-8
+175;Hobbies & Interests;Cigars;IAB9-9
+176;Hobbies & Interests;Collecting;IAB9-10
+177;Hobbies & Interests;Comic Books;IAB9-11
+178;Hobbies & Interests;Drawing/Sketching;IAB9-12
+179;Hobbies & Interests;Freelance Writing;IAB9-13
+180;Hobbies & Interests;Genealogy;IAB9-14
+181;Hobbies & Interests;Getting Published;IAB9-15
+182;Hobbies & Interests;Guitar;IAB9-16
+183;Hobbies & Interests;Home Recording;IAB9-17
+184;Hobbies & Interests;Investors & Patents;IAB9-18
+185;Hobbies & Interests;Jewelry Making;IAB9-19
+186;Hobbies & Interests;Magic & Illusion;IAB9-20
+187;Hobbies & Interests;Needlework;IAB9-21
+188;Hobbies & Interests;Painting;IAB9-22
+189;Hobbies & Interests;Photography;IAB9-23
+190;Hobbies & Interests;Radio;IAB9-24
+191;Hobbies & Interests;Roleplaying Games;IAB9-25
+192;Hobbies & Interests;Sci-Fi & Fantasy;IAB9-26
+193;Hobbies & Interests;Scrapbooking;IAB9-27
+194;Hobbies & Interests;Screenwriting;IAB9-28
+195;Hobbies & Interests;Stamps & Coins;IAB9-29
+196;Hobbies & Interests;Video & Computer Games;IAB9-30
+197;Hobbies & Interests;Woodworking;IAB9-31
+10;Hobbies & Interests;;IAB10
+198;Hobbies & Interests;Appliances;IAB10-1
+199;Hobbies & Interests;Entertaining;IAB10-2
+200;Hobbies & Interests;Environmental Safety;IAB10-3
+201;Hobbies & Interests;Gardening;IAB10-4
+202;Hobbies & Interests;Home Repair;IAB10-5
+203;Hobbies & Interests;Home Theater;IAB10-6
+204;Hobbies & Interests;Interior Decorating;IAB10-7
+205;Hobbies & Interests;Landscaping;IAB10-8
+206;Hobbies & Interests;Remodeling & Construction;IAB10-9
+11;Law, Gov't & Politics;;IAB11
+207;Law, Gov't & Politics;Immigration;IAB11-1
+208;Law, Gov't & Politics;Legal Issues;IAB11-2
+209;Law, Gov't & Politics;U.S. Government Resources;IAB11-3
+210;Law, Gov't & Politics;Politics;IAB11-4
+211;Law, Gov't & Politics;Commentary;IAB11-5
+12;News;;IAB12
+212;News;International News;IAB12-1
+213;News;National News;IAB12-2
+214;News;Local News;IAB12-3
+13;Personal Finance;;IAB13
+215;Personal Finance;Beginning Investing;IAB13-1
+216;Personal Finance;Credit/Debt & Loans;IAB13-2
+217;Personal Finance;Financial News;IAB13-3
+218;Personal Finance;Financial Planning;IAB13-4
+219;Personal Finance;Hedge Fund;IAB13-5
+220;Personal Finance;Insurance;IAB13-6
+221;Personal Finance;Investing;IAB13-7
+222;Personal Finance;Mutual Funds;IAB13-8
+223;Personal Finance;Options;IAB13-9
+224;Personal Finance;Retirement Planning;IAB13-10
+225;Personal Finance;Stocks;IAB13-11
+226;Personal Finance;Tax Planning;IAB13-12
+14;Society;;IAB14
+227;Society;Dating;IAB14-1
+228;Society;Divorce Support;IAB14-2
+229;Society;Gay Life;IAB14-3
+230;Society;Marriage;IAB14-4
+231;Society;Senior Living;IAB14-5
+232;Society;Teens;IAB14-6
+233;Society;Weddings;IAB14-7
+234;Society;Ethnic Specific;IAB14-8
+15;Science;;IAB15
+235;Science;Astrology;IAB15-1
+236;Science;Biology;IAB15-2
+237;Science;Chemistry;IAB15-3
+238;Science;Geology;IAB15-4
+239;Science;Paranormal Phenomena;IAB15-5
+240;Science;Physics;IAB15-6
+241;Science;Space/Astronomy;IAB15-7
+242;Science;Geography;IAB15-8
+243;Science;Botany;IAB15-9
+244;Science;Weather;IAB15-10
+16;Pets;;IAB16
+245;Pets;Aquariums;IAB16-1
+246;Pets;Birds;IAB16-2
+247;Pets;Cats;IAB16-3
+248;Pets;Dogs;IAB16-4
+249;Pets;Large Animals;IAB16-5
+250;Pets;Reptiles;IAB16-6
+251;Pets;Veterinary Medicine;IAB16-7
+17;Sports;;IAB17
+252;Sports;Auto Racing;IAB17-1
+253;Sports;Baseball;IAB17-2
+254;Sports;Bicycling;IAB17-3
+255;Sports;Bodybuilding;IAB17-4
+256;Sports;Boxing;IAB17-5
+257;Sports;Canoeing/Kayaking;IAB17-6
+258;Sports;Cheerleading;IAB17-7
+259;Sports;Climbing;IAB17-8
+260;Sports;Cricket;IAB17-9
+261;Sports;Figure Skating;IAB17-10
+262;Sports;Fly Fishing;IAB17-11
+263;Sports;Football;IAB17-12
+264;Sports;Freshwater Fishing;IAB17-13
+265;Sports;Game & Fish;IAB17-14
+266;Sports;Golf;IAB17-15
+267;Sports;Horse Racing;IAB17-16
+268;Sports;Horses;IAB17-17
+269;Sports;Hunting/Shooting;IAB17-18
+270;Sports;Inline Skating;IAB17-19
+271;Sports;Martial Arts;IAB17-20
+272;Sports;Mountain Biking;IAB17-21
+273;Sports;NASCAR Racing;IAB17-22
+274;Sports;Olympics;IAB17-23
+275;Sports;Paintball;IAB17-24
+276;Sports;Power & Motorcycles;IAB17-25
+277;Sports;Pro Basketball;IAB17-26
+278;Sports;Pro Ice Hockey;IAB17-27
+279;Sports;Rodeo;IAB17-28
+280;Sports;Rugby;IAB17-29
+281;Sports;Running/Jogging;IAB17-30
+282;Sports;Sailing;IAB17-31
+283;Sports;Saltwater Fishing;IAB17-32
+284;Sports;Scuba Diving;IAB17-33
+285;Sports;Skateboarding;IAB17-34
+286;Sports;Skiing;IAB17-35
+287;Sports;Snowboarding;IAB17-36
+288;Sports;Surfing/Bodyboarding;IAB17-37
+289;Sports;Swimming;IAB17-38
+290;Sports;Table Tennis/Ping-Pong;IAB17-39
+291;Sports;Tennis;IAB17-40
+292;Sports;Volleyball;IAB17-41
+293;Sports;Walking;IAB17-42
+294;Sports;Waterski/Wakeboard;IAB17-43
+295;Sports;World Soccer;IAB17-44
+18;Style & Fashion;;IAB18
+296;Style & Fashion;Beauty;IAB18-1
+297;Style & Fashion;Body Art;IAB18-2
+298;Style & Fashion;Fashion;IAB18-3
+299;Style & Fashion;Jewelry;IAB18-4
+300;Style & Fashion;Clothing;IAB18-5
+301;Style & Fashion;Accessories;IAB18-6
+19;Technology & Computing;;IAB19
+302;Technology & Computing;3-D Graphics;IAB19-1
+303;Technology & Computing;Animation;IAB19-2
+304;Technology & Computing;Antivirus Software;IAB19-3
+305;Technology & Computing;C/C++;IAB19-4
+306;Technology & Computing;Cameras & Camcorders;IAB19-5
+307;Technology & Computing;Cell Phones;IAB19-6
+308;Technology & Computing;Computer Certification;IAB19-7
+309;Technology & Computing;Computer Networking;IAB19-8
+310;Technology & Computing;Computer Peripherals;IAB19-9
+311;Technology & Computing;Computer Reviews;IAB19-10
+312;Technology & Computing;Data Centers;IAB19-11
+313;Technology & Computing;Databases;IAB19-12
+314;Technology & Computing;Desktop Publishing;IAB19-13
+315;Technology & Computing;Desktop Video;IAB19-14
+316;Technology & Computing;Email;IAB19-15
+317;Technology & Computing;Graphics Software;IAB19-16
+318;Technology & Computing;Home Video/DVD;IAB19-17
+319;Technology & Computing;Internet Technology;IAB19-18
+320;Technology & Computing;Java;IAB19-19
+321;Technology & Computing;JavaScript;IAB19-20
+322;Technology & Computing;Mac Support;IAB19-21
+323;Technology & Computing;MP3/MIDI;IAB19-22
+324;Technology & Computing;Net Conferencing;IAB19-23
+325;Technology & Computing;Net for Beginners;IAB19-24
+326;Technology & Computing;Network Security;IAB19-25
+327;Technology & Computing;Palmtops/PDAs;IAB19-26
+328;Technology & Computing;PC Support;IAB19-27
+329;Technology & Computing;Portable;IAB19-28
+330;Technology & Computing;Entertainment;IAB19-29
+331;Technology & Computing;Shareware/Freeware;IAB19-30
+332;Technology & Computing;Unix;IAB19-31
+333;Technology & Computing;Visual Basic;IAB19-32
+334;Technology & Computing;Web Clip Art;IAB19-33
+335;Technology & Computing;Web Design/HTML;IAB19-34
+336;Technology & Computing;Web Search;IAB19-35
+337;Technology & Computing;Windows;IAB19-36
+20;Travel;;IAB20
+338;Travel;Adventure Travel;IAB20-1
+339;Travel;Africa;IAB20-2
+340;Travel;Air Travel;IAB20-3
+341;Travel;Australia & New Zealand;IAB20-4
+342;Travel;Bed & Breakfasts;IAB20-5
+343;Travel;Budget Travel;IAB20-6
+344;Travel;Business Travel;IAB20-7
+345;Travel;By US Locale;IAB20-8
+346;Travel;Camping;IAB20-9
+347;Travel;Canada;IAB20-10
+348;Travel;Caribbean;IAB20-11
+349;Travel;Cruises;IAB20-12
+350;Travel;Eastern Europe;IAB20-13
+351;Travel;Europe;IAB20-14
+352;Travel;France;IAB20-15
+353;Travel;Greece;IAB20-16
+354;Travel;Honeymoons/Getaways;IAB20-17
+355;Travel;Hotels;IAB20-18
+356;Travel;Italy;IAB20-19
+357;Travel;Japan;IAB20-20
+358;Travel;Mexico & Central America;IAB20-21
+359;Travel;National Parks;IAB20-22
+360;Travel;South America;IAB20-23
+361;Travel;Spas;IAB20-24
+362;Travel;Theme Parks;IAB20-25
+363;Travel;Traveling with Kids;IAB20-26
+364;Travel;United Kingdom;IAB20-27
+21;Real Estate;;IAB21
+365;Real Estate;Apartments;IAB21-1
+366;Real Estate;Architects;IAB21-2
+367;Real Estate;Buying/Selling Homes;IAB21-3
+22;Shopping;;IAB22
+368;Shopping;Contests & Freebies;IAB22-1
+369;Shopping;Couponing;IAB22-2
+370;Shopping;Comparison;IAB22-3
+371;Shopping;Engines;IAB22-4
+23;Religion & Spirituality;;IAB23
+372;Religion & Spirituality;Alternative Religions;IAB23-1
+373;Religion & Spirituality;Atheism/Agnosticism;IAB23-2
+374;Religion & Spirituality;Buddhism;IAB23-3
+375;Religion & Spirituality;Catholicism;IAB23-4
+376;Religion & Spirituality;Christianity;IAB23-5
+377;Religion & Spirituality;Hinduism;IAB23-6
+378;Religion & Spirituality;Islam;IAB23-7
+379;Religion & Spirituality;Judaism;IAB23-8
+380;Religion & Spirituality;Latter-Day Saints;IAB23-9
+381;Religion & Spirituality;Pagan/Wiccan;IAB23-10
+24;Uncategorized;;IAB24
+25;Non-Standard Content;;IAB25
+382;Non-Standard Content;Unmoderated UGC;IAB25-1
+383;Non-Standard Content;Extreme Graphic/Explicit Violence;IAB25-2
+384;Non-Standard Content;Pornography;IAB25-3
+385;Non-Standard Content;Profane Content;IAB25-4
+386;Non-Standard Content;Hate Content;IAB25-5
+387;Non-Standard Content;Under Construction;IAB25-6
+388;Non-Standard Content;Incentivized;IAB25-7
+389;Illegal Content;Illegal Content;IAB26-1
+26;Illegal Content;;IAB26
+390;Illegal Content;Warez;IAB26-2
+391;Illegal Content;Spyware/Malware;IAB26-3
+392;Illegal Content;Copyright Infringement;IAB26-4
