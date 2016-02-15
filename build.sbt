@@ -30,7 +30,7 @@ libraryDependencies ++= Seq(
 )
 
 resolvers ++= Seq(
-  "vpon maven" at "http://192.168.101.29:8081/artifactory/vpon-maven/",
+  "maven main" at "http://192.168.101.29:8081/artifactory/maven-main/",
   "typesafe.com" at "http://repo.typesafe.com/typesafe/maven-releases/"
 )
 
@@ -98,15 +98,3 @@ assemblyMergeStrategy in assembly := {
 }
 
 excludeFilter in unmanagedSources in Compile := HiddenFileFilter
-
-publishTo := {
-  val artifactory = "http://192.168.101.29:8081/artifactory/vpon-"
-  if (isSnapshot.value)
-    Some("Vpon snapshots" at artifactory + "snapshot")
-  else
-    Some("Vpon releases" at artifactory + "release")
-}
-
-publishMavenStyle := true
-
-credentials += Credentials(Path.userHome / "sbt_credentials")
